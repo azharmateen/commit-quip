@@ -1,5 +1,8 @@
 # commit-quip
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 Witty commit message generator that enforces conventional commits with personality. Analyzes your staged changes, detects the commit type, and suggests messages in 6 different styles -- all offline, no AI required.
 
 ## Features
